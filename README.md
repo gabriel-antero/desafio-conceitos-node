@@ -30,7 +30,7 @@ dos repositórios, e além disso permitir que os repositórios possam receber "l
 
 Feito utilizando testes automatizados.
 
-## :dart: Objetivos a realizar
+## :dart: Objetivos realizados
   Criar os comandos das rotas e realizar os testes fornecidos, conforme os criterios a seguir:
   
 <h3 align="center">Rotas da aplicação</h3>
