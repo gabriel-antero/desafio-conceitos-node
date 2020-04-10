@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="">Sobre o desafio</> |
-  <a href="">Objetivos a realizar</> |
-  <a href="">LICENÇA</>
+  <a href="https://github.com/gabriel-antero/desafio-conceitos-node#information_source-sobre-o-desafio">Sobre o desafio<a/> |
+  <a href="https://github.com/gabriel-antero/desafio-conceitos-node#dart-objetivos-a-realizar">Objetivos a realizar<a/> |
+  <a href="https://github.com/gabriel-antero/desafio-conceitos-node#memo-licen%C3%A7a">LICENÇA<a/>
 </p>
  
 ## :information_source: Sobre o desafio
@@ -68,7 +68,7 @@ Feito utilizando testes automatizados.
 
 ## :memo: LICENÇA
 
-Projeto sobre licença MIT. Mais informações em [LICENÇA]().
+Projeto sobre licença MIT. Mais informações em [LICENÇA](https://github.com/gabriel-antero/desafio-conceitos-node/blob/master/LICENSE).
 
 ---
 
